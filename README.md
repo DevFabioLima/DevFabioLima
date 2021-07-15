@@ -50,7 +50,7 @@
   Hey, I'm Fabio Lima! 👋
 </h4>
 <p align="center">
-  📌 Living in <b>Mogi Mirim</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 FullStack Developer Junior <b>HST Card Technology</b>
+  📌 Living in <b>Mogi Mirim</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 Software Development Specialist A <b>Daitan Group</b>
 </p>
 <p align="center">
   📚 Graduate in <b>Analysis and Systems Development</b> &nbsp; 🎓 
