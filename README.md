@@ -4,7 +4,7 @@
 </p> 
 
 <p align="center">
-  Java | JavaScript | TypeScript | ReactJS | NodeJS | AWS | Docker | HTML | CSS | Git
+  Java | Kotlin | Python | ReactJS | NodeJS | AWS | RAG | Lang-graph | MCP
 </p>
 
 <p align="center">
