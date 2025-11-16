@@ -50,7 +50,10 @@
   Hey, I'm Fabio Lima! 👋
 </h4>
 <p align="center">
-  📌 Living in <b>Mogi Mirim</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 Software Developer at <b>iFood</b>
+  📌 Living in <b>Mogi Mirim</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 Senior Software Developer at <b>iFood</b>
+</p>
+<p align="center">
+  📚 Postgraduate Degree in <b>AI For Devs</b> &nbsp; 🎓 
 </p>
 <p align="center">
   📚 Postgraduate Degree in <b>Architecture software</b> &nbsp; 🎓 
